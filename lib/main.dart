@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// 2nd commit
+// 3rd commit
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '2nd commit',
+      title: 'Gym App',
       theme: ThemeData(
         // This is the theme of your application.
         //
